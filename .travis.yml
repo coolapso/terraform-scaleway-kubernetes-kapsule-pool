@@ -2,7 +2,7 @@ os: linux
 dist: focal
 language: shell
 env:
-  - tf_version=0.15.15 
+  - tf_version=0.15.5 
   - tf_init_cli_options="-input=false" 
 # - tf_validation_cli_options="" 
   - tf_plan_cli_options="-lock=false -input=false" 
