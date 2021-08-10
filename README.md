@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/4s3ti/kapsule-pool.svg?branch=master)](https://travis-ci.com/4s3ti/kapsule-pool)
+
 # Terraform Scaleway Kapsule
 
 A Terraform module that creates a Kubernetes kapsule node pool
