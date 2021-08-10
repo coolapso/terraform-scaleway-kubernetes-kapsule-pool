@@ -3,7 +3,7 @@ include {
 }
 
 terraform {
-  source = "../../../../kapsule-cluster"
+  source = "github.com/4s3ti/kapsule-cluster"
 }
 
 /* add inputs here to override global inputs */

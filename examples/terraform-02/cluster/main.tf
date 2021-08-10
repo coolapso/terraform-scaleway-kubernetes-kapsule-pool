@@ -4,7 +4,7 @@ locals {
 }
 
 module "k8s-cluster" {
-  source = "https://github.com/4s3ti/kapsule-cluster"
+  source = "github.com/4s3ti/kapsule-cluster"
 
   cluster_name                = "test-cluster"
   cluster_description         = "My Test scaleway kapsule"
